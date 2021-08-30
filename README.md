@@ -32,4 +32,4 @@ Total number of dependencies:
 Main.java has a method call at lines 9-10 that leads to a vulnerability.
 
 #### What's next?
-By running the security scanner of your choice against `with-ivy` project, you should get results that are coherent with the details above if the tool is able to support Apache Ant with Ivy.
+By running the security scanner of your choice against `ant-with-ivy` project, you should get results that are coherent with the details above if the tool is able to support Apache Ant with Ivy.
